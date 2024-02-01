@@ -154,6 +154,7 @@
 - [Model reduction using Dynamic Mode Decomposition, Gilles Tissot](https://www.sciencedirect.com/science/article/pii/S163107211400103X)[Comptes Rendus Mécanique, 2014]
 - [Analysis of low-order modal coherent structures in cavitation flow field based on dynamic mode decomposition and finite-time Lyapunov exponent, Yanzhao Wu](https://pubs.aip.org/aip/pof/article-abstract/35/8/085110/2905642/Analysis-of-low-order-modal-coherent-structures-in?redirectedFrom=fulltext)[POF, 2023]
 - [Vortex shedding analysis of flows past forced-oscillation cylinder with dynamic mode decomposition, Zhang Huahai](https://pubs.aip.org/aip/pof/article-abstract/35/5/053618/2893197/Vortex-shedding-analysis-of-flows-past-forced?redirectedFrom=fulltext)[POF, 2023]
+- [Origins of atypical shock buffet motions on a supercritical aerofoil, Nicholas F. Giannelis](https://www.sciencedirect.com/science/article/pii/S127096382030986X)[Aerospace Science and Technology, 2020]
 - [低速翼型绕流的多模态耦合与流动稳定性研究, 康伟](https://journals.nwpu.edu.cn/xbgydxxb//CN/abstract/abstract6440.shtml)[西北工业大学学报, 2015]
 - [动力学模态分解和本征正交分解对圆柱绕流稳定性的分析, 叶坤](https://journals.nwpu.edu.cn/xbgydxxb/FileUp/HTML/20170407.htm)[西北工业大学学报, 2017]
 - [基于POD和DMD方法的跨声速抖振模态分析, 寇家庆](https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2016.0003)[航空学报, 2016]
@@ -206,5 +207,4 @@
 - [Vortex-Induced Vibrations, C.H.K. Williamson, and R. Govardhan](https://www.annualreviews.org/doi/10.1146/annurev.fluid.36.050802.122128)[Annual Review of Fluid Mechanics, 2004]
 - [Review of active control of circular cylinder flow, Wen-Li Chen](https://www.sciencedirect.com/science/article/pii/S0029801822011830)[Ocean Engineering, 2022]
 - [Review of passive control of flow past a circular cylinder, Yize Ran](https://link.springer.com/article/10.1007/s12650-022-00858-3)[Journal of Visualization, 2022]
-- [Origins of atypical shock buffet motions on a supercritical aerofoil, Nicholas F. Giannelis](https://www.sciencedirect.com/science/article/pii/S127096382030986X)[Aerospace Science and Technology, 2020]
 
